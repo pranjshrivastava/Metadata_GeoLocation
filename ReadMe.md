@@ -45,7 +45,9 @@ PyQt: Python bindings for the Qt framework, providing a rich set of tools for GU
 Pillow (PIL): Python Imaging Library for image processing.
 OpenCV: Computer vision library for real-time image display.
 Watchdog: Python library for monitoring file system changes.
-Installation
+
+<h1>Installation</h1>
+
 Clone the repository:
 git clone https://github.com/your-username/image-viewer-metadata-extractor.git
 cd image-viewer-metadata-extractor
